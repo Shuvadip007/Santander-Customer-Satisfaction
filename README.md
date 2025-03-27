@@ -41,5 +41,5 @@ In this project, we analyze **hundreds of anonymized features** to predict wheth
 ## How to Use
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/Santander-Customer-Satisfaction.git
+   git clone https://github.com/Shuvadip007/Santander-Customer-Satisfaction.git
    cd Santander-Customer-Satisfaction
